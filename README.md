@@ -4,6 +4,9 @@
 
 <div style="text-align:center"><img src="https://github.com/OpenSourceCor/XPHONE/blob/main/img/Capture%20d'%C3%A9cran%202023-06-21%20122419.png" /></div>
 
+**🎥 | Vidéo :**
+[Lien De La Vidéo](https://www.youtube.com/watch?v=Qu_BN34p7Ws)
+
 **⚠️ | Note :**
 - Nous ne sommes en aucun cas responsable de vos actions avec XPhone.
 
