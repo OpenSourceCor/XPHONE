@@ -2,7 +2,7 @@
     XPhone V1.0
 </h1>
 
-<div style="text-align:center"><img src="https://imgur.com/gallery/6efD3Ay](https://github.com/OpenSourceCor/XPHONE/blob/main/img/xphone.png)" /></div>
+<div style="text-align:center"><img src="https://github.com/OpenSourceCor/XPHONE/blob/main/img/xphone.png" /></div>
 
 **Note :**
 - Nous ne sommes en aucun cas responsable de vos actions avec XPhone.
