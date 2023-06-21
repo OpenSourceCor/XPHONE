@@ -17,7 +17,7 @@ print(Colorate.Vertical(Colors.black_to_red, """
                                     +--------------------------------------------------+
                                     |  [+] - Générateur de numéros de téléphone FR     |
                                       Github : https://github.com/OpenSourceCor/XPHONE
-                                                    By N0x, KSCH & Zqx           
+                                                    By N0x, Hawkishx & Zqx           
                                                    """, 1))
 
 for i in tqdm(range(100), desc=Colors.yellow + "Loading" + Colors.white, ascii=False, ncols=75):
