@@ -12,7 +12,7 @@
 
 ## 🔩 | Setup
 1. Installer [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Installer [XPhone](https://github.com/OpenSourceCor/XPHONE/releases/tag/v1.0)
+2. Installer [XPhone](https://github.com/OpenSourceCor/XPHONE/releases)
 3. Installation des requirements [install.bat](https://github.com/OpenSourceCor/XPHONE/blob/main/install.bat)
 4. Lancer le script [start.bat](https://github.com/OpenSourceCor/XPHONE/blob/main/start.bat)
 6. Vous avez vos listes de numéro !
