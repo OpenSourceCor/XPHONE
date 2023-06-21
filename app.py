@@ -15,6 +15,8 @@ print(Colorate.Vertical(Colors.black_to_red, """
                                     ██╔╝ ██╗██║     ██║  ██║╚██████╔╝██║ ╚████║███████╗
                                     ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝   
                                     +--------------------------------------------------+
+                                    |  [+] - Générateur de numéros de téléphone FR     |
+                                      Github : https://github.com/OpenSourceCor/XPHONE
                                                     By N0x, KSCH & Zqx           
                                                    """, 1))
 
