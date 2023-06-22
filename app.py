@@ -57,7 +57,7 @@ def cccv(num):
             with open(file_path, mode) as file:
                 for number in numbers:
                     file.write(number + "\n")
-            print(f"[+] - {len(numbers)} numéros générés pour l'opéraeur {operator}", Colors.green)
+            print(f"[+] - {len(numbers)} numéros générés pour l'opérateur {operator}", Colors.green)
         except Exception as e:
             pass
 
