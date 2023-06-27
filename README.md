@@ -1,5 +1,5 @@
 <h1>
-    XPhone V1.0
+    XPhone V1.1
 </h1>
 
 <div style="text-align:center"><img src="https://github.com/OpenSourceCor/XPHONE/blob/main/img/Capture%20d'%C3%A9cran%202023-06-21%20122419.png" /></div>
