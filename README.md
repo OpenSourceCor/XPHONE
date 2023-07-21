@@ -20,4 +20,4 @@
 ### ✏️ | Authors
 - [Hawkishx](https://github.com/Hawkishx)
 - [N0x](https://github.com/N0xGithub)
-- [Zqx](https://github.com/ZqxDev)
+
